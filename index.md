@@ -1,6 +1,5 @@
-# Arduino-101-CoMotion-Makerspace
-[CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace/) Arduino 101 Workshop
-
+# Arduino-101
+Forked from: [CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace/)
 The introduction [Slide](https://docs.google.com/presentation/d/1qxxxGQ7LBd-auEpzzYEt8aBYAnZIAZcA_UyEVwbCmy0/edit?usp=sharing)
 > 
 > Please go through the projects in the folder before going through other projects introduced below. The projects in the folder will give you an basic idea about Serial Monitor, Digital/Analog I/O, basic electronics, basic Arduino programming (For loop, Array, If-Condition.)
