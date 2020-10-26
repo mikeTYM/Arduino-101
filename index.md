@@ -15,10 +15,10 @@ Forked from: [CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace
 - **[Analog Read Serial](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_09_Serial): Read a potentiometer, print its state out to the Arduino Serial Monitor.**
 - **[Digital Read Serial](https://www.arduino.cc/en/Tutorial/DigitalReadSerial): Read a switch, print the state out to the Arduino Serial Monitor.**
 - **[Fade](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_05_Fade): Demonstrates the use of analog output to fade an LED.**
-- **[Read Analog Voltage](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_9_Serial): Reads an analog input and prints the voltage to the Serial Monitor.**
+- **[Read Analog Voltage](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_09_Serial): Reads an analog input and prints the voltage to the Serial Monitor.**
 #### 2. Digital
-- **[Blink Without Delay](https://https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_02_Blink): Blink an LED without using the delay() function.**
-- **[Button](https://github.com/mikeTYM/Arduino-101e/tree/master/Circuit_03_Pushbutton): Use a pushbutton to control an LED.**
+- **[Blink Without Delay](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_02_Blink): Blink an LED without using the delay() function.**
+- **[Button](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_03_Pushbutton): Use a pushbutton to control an LED.**
 - [Debounce](https://www.arduino.cc/en/Tutorial/Debounce): Read a pushbutton, filtering noise.
 - [Digital Input Pullup](https://www.arduino.cc/en/Tutorial/InputPullupSerial): Demonstrates the use of INPUT_PULLUP with pinMode().
 - [State Change Detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection): Count the number of button pushes.
