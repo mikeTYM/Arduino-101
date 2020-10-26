@@ -1,10 +1,7 @@
 # Arduino-101
 Forked from: [CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace/)
 ## The introduction [Slide](https://docs.google.com/presentation/d/1qxxxGQ7LBd-auEpzzYEt8aBYAnZIAZcA_UyEVwbCmy0/edit?usp=sharing)
-> 
-> Please go through the projects in the folder before going through other projects introduced below. The projects in the folder will give you an basic idea about Serial Monitor, Digital/Analog I/O, basic electronics, basic Arduino programming (For loop, Array, If-Condition.)
-> ---
-> In each project, there is a project instruction guide and the Arduino code. Just download the whole file folder, open the Arduino .ino files and run the code to learn how Arduino works.
+
 > 
 # Arduino Tutorials Page
 ## Here is the list of Tutorials Both in this repository and on Arduino website.
