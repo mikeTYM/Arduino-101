@@ -24,7 +24,7 @@ Forked from: [CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace
 - [Tone Pitch Follower](https://www.arduino.cc/en/Tutorial/tonePitchFollower): Play a pitch on a piezo speaker depending on an analog input.
 #### 3. Analog
 - [Analog In Out Serial](https://www.arduino.cc/en/Tutorial/AnalogInOutSerial): Read an analog input pin, map the result, and then use that data to dim or brighten an LED.
-- **[Analog Input](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_9_Serial): Use a potentiometer to control the blinking of an LED.**
+- **[Analog Input](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_09_Serial): Use a potentiometer to control the blinking of an LED.**
 - **[Analog Write](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_08_MultipleLEDs): Fade 12 LEDs on and off, one by one, using an Arduino board.**
 - **[Fading](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_05_Fade): Use an analog output (PWM pin) to fade an LED.**
 - [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing): Smooth multiple readings of an analog input.
