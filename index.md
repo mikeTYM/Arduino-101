@@ -4,8 +4,7 @@ Forked from: [CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace
 
 > 
 # Arduino Tutorials Page
-## Here is the list of Tutorials Both in this repository and on Arduino website.
-### The ones with bold font means, we have it or similar ones in our repo, otherwise it will redirect to Arduino Tutorial Page.
+## The ones with bold font means, we have it or similar ones in our repo, otherwise it will redirect to Arduino Tutorial Page.
 
 #### 1. Basics
 - **[Blink](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_02_Blink): Turn an LED on and off.**
