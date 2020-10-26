@@ -56,7 +56,7 @@ These examples include code that allows the Arduino to talk to Processing sketch
 - **[Photoresistor](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_10_Photoresistor) Light sensor and change the brightness of the LED**
 - **[Temperature Sensor](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_11_TempSensor)Temperature Sensor.**
 #### 7. Display
-- **[Bar Graph](https://github.com/mikeTYM/Arduino-101/Circuit_07_BarGraph): Make an LED bar graph.**
+- **[Bar Graph](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_07_BarGraph): Make an LED bar graph.**
 - [RowColumnScanning](https://www.arduino.cc/en/Tutorial/RowColumnScanning): Control an 8x8 matrix of LEDs.
 #### 8. Strings
 - [Character Analysis](https://www.arduino.cc/en/Tutorial/CharacterAnalysis): Use the operators to recognise the type of character we are dealing with.
