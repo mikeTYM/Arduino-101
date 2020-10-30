@@ -4,7 +4,7 @@ Forked from: [CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace
 
 > 
 # Arduino Tutorials Page
-## The ones with bold font means, we have it or similar ones in our repo, otherwise it will redirect to Arduino Tutorial Page.
+## The ones with bold font means, we have it or similar ones in our repo, otherwise it will redirect to other Arduino tutorial pages.
 
 #### 1. Basics
 - **[Blink](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_02_Blink): Turn an LED on and off.**
@@ -27,6 +27,7 @@ Forked from: [CoMotion Makerspace](https://comotion.uw.edu/what-we-do/makerspace
 - **[Analog Input](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_09_Serial): Use a potentiometer to control the blinking of an LED.**
 - **[Analog Write](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_08_MultipleLEDs): Fade 12 LEDs on and off, one by one, using an Arduino board.**
 - **[Fading](https://github.com/mikeTYM/Arduino-101/tree/master/Circuit_05_Fade): Use an analog output (PWM pin) to fade an LED.**
+- **[LEDS With a Potentiometer](https://www.instructables.com/LEDS-With-a-Potentiometer/): Fade LEDS As Potentiometer Turns.**
 - [Smoothing](https://www.arduino.cc/en/Tutorial/Smoothing): Smooth multiple readings of an analog input.
 #### 4. Communication
 These examples include code that allows the Arduino to talk to Processing sketches running on the computer. For more information or to download Processing, see processing.org. There are also Max/MSP patches that can communicate with each Arduino sketch as well. For more on Max/MSP see Cycling 74.
